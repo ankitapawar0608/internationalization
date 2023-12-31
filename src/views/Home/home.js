@@ -8,11 +8,12 @@ function home() {
 
   return (
     <div>
-      <h1>Welcome to my website</h1>
+      <h1>Welcome</h1>
 
       <p>
         I am Ankita Pawar
       </p>
+
       <h3>
         Have a great day!!!!
       </h3>
